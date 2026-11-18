@@ -1,0 +1,6 @@
+{
+  "name": "JalWorld TV",
+  "description": "Live TV IPTV streaming app with M3U8 & MPEG-DASH/Widevine playback, TV & mobile support, offline caching, parental controls, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
